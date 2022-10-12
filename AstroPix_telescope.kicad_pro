@@ -383,7 +383,6 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "-HV",
           "/POW4_in",
           "/VDD18_in",
           "VDDA"
