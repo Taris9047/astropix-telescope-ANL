@@ -1,13 +1,13 @@
-### Module positions - created on Fri Jan 20 23:05:55 2023 ###
+### Module positions - created on Sat Jan 21 08:14:10 2023 ###
 ### Printed by Pcbnew version (6.0.10)
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val       Package                 PosX       PosY       Rot  Side
 Logo1     KIT_logo  logo                108.3500  -124.0000    0.0000  top
 R1        1Meg      R_0603_1608Metric   140.0000   -98.5000    0.0000  top
-R2        1Meg      R_0603_1608Metric   135.0000   -99.5000  -90.0000  top
+R2        1Meg      R_0603_1608Metric   135.0000   -99.3000  -90.0000  top
 R3        1Meg      R_0603_1608Metric   140.6750   -78.5000    0.0000  top
-R4        1Meg      R_0603_1608Metric   136.0000   -79.5000  -90.0000  top
+R4        1Meg      R_0603_1608Metric   136.0000   -79.3000  -90.0000  top
 R5        1Meg      R_0603_1608Metric   142.0000   -59.0000    0.0000  top
-R6        1Meg      R_0603_1608Metric   136.0000   -60.0000  -90.0000  top
+R6        1Meg      R_0603_1608Metric   136.0000   -59.8000  -90.0000  top
 ## End
