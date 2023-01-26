@@ -1,10 +1,10 @@
-### Module positions - created on Thu Jan 26 07:58:20 2023 ###
+### Module positions - created on Fri Jan 27 03:25:38 2023 ###
 ### Printed by Pcbnew version (6.0.10)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val             Package                         PosX       PosY       Rot  Side
-J1        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -142.0000  -112.6650  180.0000  bottom
-J2        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -142.0000   -92.6650  180.0000  bottom
-J3        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -142.0000   -72.6650  180.0000  bottom
-J4        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -142.0000   -52.6650  180.0000  bottom
+J1        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -143.2600  -125.3650  180.0000  bottom
+J2        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -143.2600  -105.3650  180.0000  bottom
+J3        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -143.2600   -85.3650  180.0000  bottom
+J4        AstroPix2_pcie  SAMTEC_PCIE-098-02-X-D-TH  -143.2600   -65.3650  180.0000  bottom
 ## End
