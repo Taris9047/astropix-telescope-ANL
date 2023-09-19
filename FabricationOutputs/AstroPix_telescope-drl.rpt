@@ -1,5 +1,5 @@
 Drill report for AstroPix_telescope.kicad_pcb
-Created on 1/27/2023 3:25:16 AM
+Created on 2023-09-19 1:14:21 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -12,15 +12,13 @@ Copper Layer Stackup:
 Drill file 'AstroPix_telescope-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.203mm  0.0080"  (132 holes)
-    T2  0.250mm  0.0098"  (82 holes)
-    T3  0.400mm  0.0157"  (5 holes)
-    T4  0.700mm  0.0276"  (392 holes)
-    T5  0.965mm  0.0380"  (10 holes)
-    T6  1.000mm  0.0394"  (12 holes)
-    T7  3.200mm  0.1260"  (2 holes)
+    T1  0.250mm  0.0098"  (58 holes)
+    T2  0.400mm  0.0157"  (143 holes)
+    T3  0.700mm  0.0276"  (392 holes)
+    T4  1.000mm  0.0394"  (3 holes)
+    T5  3.200mm  0.1260"  (2 holes)
 
-    Total plated holes count 635
+    Total plated holes count 598
 
 
 Drill file 'AstroPix_telescope-NPTH.drl' contains

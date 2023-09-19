@@ -1,3 +1,6 @@
 (sym_lib_table
+  (version 7)
   (lib (name "astropix")(type "KiCad")(uri "${KIPRJMOD}/astropix.kicad_sym")(options "")(descr ""))
+  (lib (name "A-STEP_CB")(type "KiCad")(uri "E:/Projects/A-STEP_CB/Libs/A-STEP_CB.kicad_sym")(options "")(descr ""))
+  (lib (name "AstropixTriggerLib")(type "KiCad")(uri "E:/Projects/Astropix-Trigger/Library/AstropixTriggerLib.kicad_sym")(options "")(descr ""))
 )
